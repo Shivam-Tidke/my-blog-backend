@@ -25,7 +25,7 @@
 └── README.md
 
 ```
-##Technologies Used
+## Technologies Used
 
 - Node.js
 - Express.js
@@ -33,3 +33,5 @@
 - Mongoose
 - dotenv
 - CORS
+## Screenshot
+!(https://drive.google.com/file/d/12H7cTKrP-0x8rw3jECwFQnho80Q9UQ7e/view?usp=sharing)
